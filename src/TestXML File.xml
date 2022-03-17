@@ -1,5 +1,5 @@
 <xml>
-    <CherryPick>This file is to check Cherry Pick(2)</CherryPick>
+    <CherryPick>This file is to check Cherry Pick (Copied)</CherryPick>
     <Numbers>
         <One>1</One>
         <Two>2</Two>
@@ -13,5 +13,6 @@
         <Ten>10</Ten>
         <Eleven>11</Eleven>
         <Twelve>12</Twelve>
+        <Thirteen>13</Thirteen>
     </Numbers>
 </xml>
