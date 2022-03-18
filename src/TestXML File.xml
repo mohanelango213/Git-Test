@@ -12,4 +12,7 @@
         <Nine>9</Nine>
         <Ten>10</Ten>
     </Numbers>
+    <Alphabets>
+        <A>1</A>
+    </Alphabets>
 </xml>
