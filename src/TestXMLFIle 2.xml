@@ -3,4 +3,8 @@
         <Componaies>Honda</Componaies>
         <Componaies>Benz</Componaies>
     </Cars>
+    <Bikes>
+        <Companies>Yamaha</Companies>
+        <Companies>TVS</Companies>
+    </Bikes>
 </Hello>
